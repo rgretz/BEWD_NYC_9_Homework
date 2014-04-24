@@ -1,0 +1,2 @@
+
+I’d like to create a website that provides users the suggestions for popular music based on when their photos were taken.  I intend on leaning heavily on the Facebook API in order to handle authentication as well as source photos.  In order to correlate photos with popular music I’ll be looking to collect the image creation date and match it with billboard hits of the same time period.  I’ll also be using the Billboard api to access the historical charts of popular music.
